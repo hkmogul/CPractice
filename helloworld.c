@@ -5,6 +5,6 @@
 
 int main()
 {
-    printf("Hello pants!\n");
+    printf("Hello kitty!\n");
     exit;
 }
